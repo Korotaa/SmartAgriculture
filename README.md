@@ -28,7 +28,7 @@ We connect MCP008 to Raspberry by using SPI serial connection.
 [MCP008 Datasheet](http://www.adafruit.com/datasheets/MCP3008.pdf) 
 
 **Hardware SPI: MCP008 Wiring**
-![Alt text](MCP008-wiring.png)
+![Alt text](MCP008-wiring.drawio.png)
 
 ### Analog to Digital Converter ADS1115
 
