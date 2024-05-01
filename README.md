@@ -43,7 +43,7 @@ $ sudo pip install adafruit-mcp3008
 
 ### Analog to Digital Converter ADS1115
 
-![Alt text](ADS1115.jpg)
+![Alt text](ADS1115.jpg)  
 [ADS1115 datasheet](https://www.rototron.info/wp-content/uploads/AnalogWater_ADS1115.pdf)
 
 **Necessary package**
